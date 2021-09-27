@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Singh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divya1467&label=Profile%20views&color=0e75b6&style=flat" alt="divya1467" /> </p>
+
 
 - 🔭 I’m currently in **my 3rd year of B.tech**
 
