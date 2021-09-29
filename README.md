@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Singh</h1>
 
 
-- 🔭 I’m currently in **my 3rd year of B.tech**
+- 🔭 I’m **a C.S.E undergrad**
 
 - 🌱 I’m currently learning **data structures and all about full stack development.**
 
