@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java and frontend development.**
 
-- ⚡ Fun fact **Invention, my dear friends, is 93% perspiration, 6% electricity, 4% evaporation, and 2% butterscotch ripple.**
+- ⚡ Fun fact: **I'm an artist and a bibliophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
