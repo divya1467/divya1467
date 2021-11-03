@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Divya Singh</h1>
 
 
-- 🔭 I’m **a C.S.E undergrad**
+- 🔭 I’m **a C.S.E undergrad**                                                                      
 
 - 🌱 I’m currently learning **data structures and all about full stack development.**
 
 - 💬 Ask me about **java and frontend development.**
 
 - ⚡ Fun fact: **I'm an artist and a bibliophile**
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0j2g91mp0h2vbmqfmls0.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
