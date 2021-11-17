@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java and frontend development.**
 
-- ⚡ Fun fact: **I'm an artist and a bibliophile**
+- ⚡ not-so-fun fact: **I'm an artist and a bibliophile**
 
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0j2g91mp0h2vbmqfmls0.gif)
